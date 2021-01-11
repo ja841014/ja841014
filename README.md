@@ -8,7 +8,7 @@
 <img align="left" alt="ChunHao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ja841014&theme=dark&hide_border=true"/>
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ja841014&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<img align="left" alt="ChunHao's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&?hide=C#&langs_count=10&theme=dark"/>
+<!-- <img align="left" alt="ChunHao's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&?hide=C#&langs_count=10&theme=dark"/> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&?hide=C#&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&?hide=C#&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
