@@ -21,11 +21,11 @@
 	<img align="left" alt="ChunHao's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&hide=c%23,shaderlab&langs_count=6&theme=dark"/>
 </p>
 
-
+<img src="https://komarev.com/ghpvc/?username=ja841014)">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&hide=c#&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![](https://komarev.com/ghpvc/?username=ja841014)
+<!-- ![](https://komarev.com/ghpvc/?username=ja841014) -->
