@@ -10,7 +10,7 @@
 
 <!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ja841014&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-# Things I'm Good At
+## Things I'm Good At
 <img src="https://github.com/ja841014/ja841014/blob/master/img/java-original.svg" height="50"> <img src="https://github.com/ja841014/ja841014/blob/master/img/javascript-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/cplusplus-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/c-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/html5-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/git-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/mysql-original.svg" height="50">
 
 <p>
