@@ -2,9 +2,9 @@
 
 ## Welcome to my github. I'm Chun-Hao.
 
-### I aspire to be a valuable software engineer
+### I aspire to be a valuable software development engineer
 
-* I'm a current master student in University of Sothern California. FIGHT ON!! <img alt="trojan" src="https://github.com/ja841014/ja841014/blob/master/img/trojan.png" width="20">
+* I'm a master student in University of Southern California. FIGHT ON!! <img alt="trojan" src="https://github.com/ja841014/ja841014/blob/master/img/trojan.png" width="20">
 * I'm currently deepen my skills in java<img alt="java" src="https://github.com/ja841014/ja841014/blob/master/img/java-original.svg" width="25">
 * I'm continuosly broaden my knowledge in programming such as database, cloud and web development.
 
