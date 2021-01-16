@@ -13,15 +13,14 @@
 ## Things I'm Good At
 <img src="https://github.com/ja841014/ja841014/blob/master/img/java-original.svg" height="50"> <img src="https://github.com/ja841014/ja841014/blob/master/img/javascript-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/cplusplus-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/c-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/html5-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/git-original.svg" height="50"><img src="https://github.com/ja841014/ja841014/blob/master/img/mysql-original.svg" height="50">
 
-<p>
-	<img align="left" alt="ChunHao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ja841014&theme=dark&hide_border=false"/>
-</p>
 
-<p>
-	<img align="left" alt="ChunHao's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&hide=c%23,shaderlab&langs_count=6&theme=dark"/>
-</p>
+* <img align="left" alt="ChunHao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ja841014&theme=dark&hide_border=false"/>
 
-<img src="https://komarev.com/ghpvc/?username=ja841014">
+
+
+* <img align="left" alt="ChunHao's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&hide=c%23,shaderlab&langs_count=6&theme=dark"/>
+
+* <img src="https://komarev.com/ghpvc/?username=ja841014">
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
