@@ -20,7 +20,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ja841014)
 
-<!-- <img align="left" alt="ChunHao's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&hide=c%23,shaderlab&langs_count=6&theme=dark"/>
+<!-- <img align="left" alt="ChunHao's Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&hide=c%23,shaderlab,html&langs_count=6&theme=dark"/>
 
 <img src="https://komarev.com/ghpvc/?username=ja841014">
  -->
