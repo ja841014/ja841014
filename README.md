@@ -16,7 +16,7 @@
 ![ChunHao's Github Stats](https://github-readme-stats.vercel.app/api?username=ja841014&theme=dark&hide_border=false)
 <!-- <img align="left" alt="ChunHao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ja841014&theme=dark&hide_border=false"/> -->
 
-![ChunHao's Top Language"](https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&hide=c%23,shaderlab,html&langs_count=6&theme=dark)
+![ChunHao's Top Language"](https://github-readme-stats.vercel.app/api/top-langs/?username=ja841014&layout=compact&hide=c%23,shaderlab&langs_count=6&theme=dark)
 
 ![](https://komarev.com/ghpvc/?username=ja841014)
 
